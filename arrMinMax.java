@@ -43,6 +43,7 @@ public class arrMinMax {
         for (int a : arr) {
             System.out.print(a + " ");
         }
-        System.out.println("Second comit");
+        System.out.println("Second commit");
+        System.out.println("third commit");
     }
 }
