@@ -45,5 +45,7 @@ public class arrMinMax {
         }
         System.out.println("Second commit");
         System.out.println("third commit");
+        System.out.println("Hello Git hub!!!");
+
     }
 }
